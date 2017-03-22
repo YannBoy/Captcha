@@ -106,4 +106,4 @@ https://github.com/Gregwar/CaptchaBundle
 License
 =======
 
-This library is under MIT license, have a look to the `LICENSE` file
+This library is under MIT license, have a look to the `LICENSE` file 
